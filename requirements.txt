@@ -4,6 +4,4 @@ plotly
 numpy
 pandas
 scipy
-io
-os
 gunicorn
