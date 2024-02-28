@@ -1,0 +1,10 @@
+dash==2.15.0
+dash_bootstrap_components
+plotly
+numpy
+pandas
+scipy
+base64
+io
+os
+gunicorn

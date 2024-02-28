@@ -62,6 +62,7 @@ def phase_fig():
 external_stylesheets = [dbc.themes.BOOTSTRAP]
 
 app = Dash(__name__, external_stylesheets=external_stylesheets)
+server = app.server
 # style the uploader
 uploader_style={
             'width': '50%',
